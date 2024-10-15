@@ -1,0 +1,4 @@
+#Tue Oct 15 14:04:33 IST 2024
+base.0=/Users/ajmal/Development/Flutter_Development/Shopping_App_Assignment/shopping_app/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
